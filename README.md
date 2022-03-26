@@ -1,2 +1,5 @@
-Dados utilizados na disciplina de Machine Learning
-- Dr. Alana Morais
+## Disciplina de Machine Learning
+### MBA em Engenharia e Administração de Dados
+### Prof: Dr. Alana Morais
+
+
