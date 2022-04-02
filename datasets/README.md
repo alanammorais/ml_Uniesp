@@ -4,10 +4,10 @@
 
 
 
-- Database 1:
-* Description: 
+- [x] Aula 01 - Database 1
+- Description: 
 
 
-- Database 2:
+- [ ] Aula 02 - Database 2
 * Description: 
 
