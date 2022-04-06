@@ -6,8 +6,8 @@
 - [x] Aula 01 - Concepts and Definition
 
 - [ ] Aula 02 
-* Database 2: [https://github.com/alanammorais/ml_Uniesp/tree/master/datasets/Aula%2002/iris] Flor de Íris 
-* Database 3: [https://github.com/alanammorais/ml_Uniesp/tree/master/datasets/Aula%2002/divorce] Base sobre divórcio
+* Database 2: [Flor de Íris] (https://github.com/alanammorais/ml_Uniesp/tree/master/datasets/Aula%2002/iris)
+* Database 3: [Base sobre divórcio] (https://github.com/alanammorais/ml_Uniesp/tree/master/datasets/Aula%2002/divorce)
 
 - [ ] Aula 03 - Database 3
 * Database: 
