@@ -19,5 +19,5 @@
 * Database: 
 
 - [ ] Aula 06 - Clustering
-* Database 7: [Shopping] (https://github.com/alanammorais/ml_Uniesp/tree/master/datasets/Aula%2006) 
+* Database 7: [Shopping](https://github.com/alanammorais/ml_Uniesp/tree/master/datasets/Aula%2006) 
 
