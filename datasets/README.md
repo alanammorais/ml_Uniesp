@@ -13,11 +13,12 @@
 * Database 4: [Censo EUA](https://github.com/alanammorais/ml_Uniesp/blob/master/datasets/Aula%2003).
 
 - [ ] Aula 04 - Linear and Logistic Regression
+* Database 5:  []
+* Database 6:  []
+
+- [ ] Aula 05 - Neural Networks
 * Database: 
 
-- [ ] Aula 05 - Database 5
-* Database: 
-
-- [ ] Aula 06 - Database 6
+- [ ] Aula 06 - Clustering
 * Database: 
 
